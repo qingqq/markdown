@@ -2,7 +2,7 @@
 format: latex+lhs
 categories: 说明
 toc: no
-title: hello
+title: 说明
 ...
 
 hello github 
